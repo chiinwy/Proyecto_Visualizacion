@@ -10,6 +10,6 @@ Una vez limpiado el csv, lo siguiente es subirlo a PowerBi, tambien podiamos uti
 
 ![Captura de pantalla 2023-08-14 192742](https://github.com/chiinwy/Proyecto_Visualizacion/assets/137778612/c37e45e9-0dde-4ca7-a70f-16651b7e0301)
 
-Aquí arriba podemos ver el cuadro de mando interactivo. Seleccionando en cada episodio, podemos acceder a la informacion detallada de cada uno de ellos (temporada, episodio, título, director, ...)
+Aquí arriba podemos ver el cuadro de mando interactivo. Seleccionando en cada episodio, podemos acceder a la informacion detallada de cada uno de ellos (temporada, episodio, título, director..)
 
 En otras 3 hojas, he ordenado también los episodios por la longitud, por los espectadores en Estados Unidos y la última hoja esta ordenada por los ratings de IMDB.
