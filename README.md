@@ -8,7 +8,7 @@ Primero teníamos que escoger unos datos, limpiarlos y transformarlos para poder
 
 Una vez limpiado el csv, lo siguiente es subirlo a PowerBi, tambien podiamos utilizar Tableau o visualización con Python, pero en mi caso, al querer hacer un cuadro de mando, lo mas lógico era utilizar PowerBi.
 
-![Captura de pantalla 2023-08-14 191714](https://github.com/chiinwy/Proyecto_Visualizacion/assets/137778612/760f16c6-0ac0-485c-99a0-bdb37de7ad97)
+![Captura de pantalla 2023-08-14 192742](https://github.com/chiinwy/Proyecto_Visualizacion/assets/137778612/c37e45e9-0dde-4ca7-a70f-16651b7e0301)
 
 Aquí arriba podemos ver el cuadro de mando interactivo. Seleccionando en cada episodio, podemos acceder a la informacion detallada de cada uno de ellos (temporada, episodio, título, director, ...)
 
